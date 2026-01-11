@@ -3,7 +3,8 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="<img width="1246" height="1252" alt="image" src="https://github.com/user-attachments/assets/abb9cdfc-4aff-4680-8c0b-165c77a150b1" />
+"
       width="540"
       height="540"
       alt="Danny's Diner Case Study"
