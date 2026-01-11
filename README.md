@@ -10,6 +10,7 @@
     />
   </a>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
@@ -25,6 +26,7 @@
   </a>
 </p>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
@@ -40,6 +42,7 @@
   </a>
 </p>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
@@ -55,6 +58,7 @@
   </a>
 </p>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
@@ -70,6 +74,7 @@
   </a>
 </p>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
@@ -85,6 +90,7 @@
   </a>
 </p>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
@@ -100,6 +106,7 @@
   </a>
 </p>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
@@ -115,6 +122,7 @@
   </a>
 </p>
 </p>
+<p align="center">
   <i>Click the image to view the full case study</i>
 </p>
 
