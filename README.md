@@ -10,6 +10,8 @@
     />
   </a>
 </p>
+  <i>Click the image to view the full case study</i>
+</p>
 
 ### ***<p align = "center"  >Case Study #2 - Pizza Runner</p>*** ###
 <p align="center">
@@ -21,6 +23,9 @@
       alt="Pizza Runner Case Study"
     />
   </a>
+</p>
+</p>
+  <i>Click the image to view the full case study</i>
 </p>
 
 ### ***<p align = "center"  >Case Study #3 - Foodie-Fi</p>*** ###
@@ -34,6 +39,9 @@
     />
   </a>
 </p>
+</p>
+  <i>Click the image to view the full case study</i>
+</p>
 
 ### ***<p align = "center"  >Case Study #4 - Data Bank</p>*** ###
 <p align="center">
@@ -45,6 +53,9 @@
       alt="Data Bank Case Study"
     />
   </a>
+</p>
+</p>
+  <i>Click the image to view the full case study</i>
 </p>
 
 ### ***<p align = "center"  >Case Study #5 - Data Mart</p>*** ###
@@ -58,6 +69,9 @@
     />
   </a>
 </p>
+</p>
+  <i>Click the image to view the full case study</i>
+</p>
 
 ### ***<p align = "center"  >Case Study #6 - Clique Bait</p>*** ###
 <p align="center">
@@ -69,6 +83,9 @@
       alt="Clique Bait Case Study"
     />
   </a>
+</p>
+</p>
+  <i>Click the image to view the full case study</i>
 </p>
 
 ### ***<p align = "center"  >Case Study #7 - Balanced Tree Clothing Co</p>*** ###
@@ -82,6 +99,9 @@
     />
   </a>
 </p>
+</p>
+  <i>Click the image to view the full case study</i>
+</p>
 
 ### ***<p align = "center"  >Case Study #8 - Fresh Segments</p>*** ###
 <p align="center">
@@ -94,7 +114,9 @@
     />
   </a>
 </p>
-
+</p>
+  <i>Click the image to view the full case study</i>
+</p>
 
 
 
