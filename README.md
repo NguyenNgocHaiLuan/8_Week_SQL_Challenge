@@ -1,6 +1,6 @@
 # <p align = "center" >8 Week SQL Challenge </p>  
 ## <p align = "center" >***Case Study #1 - Danny's Diner***</p> 
-<img width="1080" height="1080" alt="image" style="border-radius: 20px;" src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0" />
+<img width="540" height="540" alt="image" style="border-radius: 20px;" src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0" />
 ## <p align = "center" >***Case Study #2 - Pizza Runner***</p> 
 <img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/da212ec9-1c05-406c-bcf4-e0fb5b7b76c7" />
 ## <p align = "center" >***Case Study #3 - Foodie-Fi***</p> 
