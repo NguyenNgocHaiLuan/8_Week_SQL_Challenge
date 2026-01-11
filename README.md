@@ -6,14 +6,30 @@
       src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
       width="540"
       height="540"
+      border-radius = "20px"
       alt="Danny's Diner Case Study"
     />
   </a>
 </p>
-<p align="center">
-  <b>Case Study #1 – Danny's Diner</b><br>
-  <i>Click the image to view the full case study</i>
-</p>
+
+***<p align = "center"  >Case Study #2 - Pizza Runner</p>***
+
+***<p align = "center"  >Case Study #3 - Foodie-Fi</p>***
+
+***<p align = "center"  >Case Study #4 - Data Bank</p>***
+
+***<p align = "center"  >Case Study #5 - Data Mart</p>***
+
+***<p align = "center"  >Case Study #6 - Clique Bait</p>***
+
+***<p align = "center"  >Case Study #7 - Balanced Tree Clothing Co</p>***
+
+***<p align = "center"  >Case Study #8 - Fresh Segments</p>***
+
+
+
+
+
 
 
 
