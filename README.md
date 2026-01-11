@@ -14,12 +14,7 @@
   <i>Click the image to view the full case study</i>
 </p>
 
-Text
-
 ----
-
-Text
-
 ### ***<p align = "center"  >Case Study #2 - Pizza Runner</p>*** ###
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner">
