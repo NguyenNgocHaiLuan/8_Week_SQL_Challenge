@@ -15,10 +15,10 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="https://github.com/user-attachments/assets/da212ec9-1c05-406c-bcf4-e0fb5b7b76c7"
       width="540"
       height="540"
-      alt="Danny's Diner Case Study"
+      alt="Pizza Runner Case Study"
     />
   </a>
 </p>
@@ -27,10 +27,10 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%233%20-%20Foodie-Fi">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="https://github.com/user-attachments/assets/854e4567-a4f0-4d8f-b94f-d1119908b883"
       width="540"
       height="540"
-      alt="Danny's Diner Case Study"
+      alt="Foodie-Fi Case Study"
     />
   </a>
 </p>
@@ -39,10 +39,10 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%234%20-%20Data%20Bank">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="https://github.com/user-attachments/assets/699a697c-9a6e-4731-92b7-b562ddee3159"
       width="540"
       height="540"
-      alt="Danny's Diner Case Study"
+      alt="Data Bank Case Study"
     />
   </a>
 </p>
@@ -51,10 +51,10 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%235%20-%20Data%20Mart">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="https://github.com/user-attachments/assets/169e75ad-6ba6-4d49-8c57-b8a63f8e30d2"
       width="540"
       height="540"
-      alt="Danny's Diner Case Study"
+      alt="Data Mart Case Study"
     />
   </a>
 </p>
@@ -63,10 +63,10 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="https://github.com/user-attachments/assets/bab957d3-4ff8-4401-b45c-cea66427ee6f"
       width="540"
       height="540"
-      alt="Danny's Diner Case Study"
+      alt="Clique Bait Case Study"
     />
   </a>
 </p>
@@ -75,10 +75,10 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%237%20-%20Balanced%20Tree%20Clothing%20Co">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="https://github.com/user-attachments/assets/a85af868-9c3f-49a7-b28d-a4f1cbb23e56"
       width="540"
       height="540"
-      alt="Danny's Diner Case Study"
+      alt="Balanced Tree Clothing Co Case Study"
     />
   </a>
 </p>
@@ -87,10 +87,10 @@
 <p align="center">
   <a href="https://github.com/NguyenNgocHaiLuan/8_Week_SQL_Challenge/tree/main/Case%20Study%20%238%20-%20Fresh%20Segments">
     <img
-      src="https://github.com/user-attachments/assets/5a0b0b8c-c018-4e48-856d-0febee4d98b0"
+      src="https://github.com/user-attachments/assets/a9545823-716f-40e7-996e-a3391f1291a7"
       width="540"
       height="540"
-      alt="Danny's Diner Case Study"
+      alt="Fresh Segments Case Study"
     />
   </a>
 </p>
