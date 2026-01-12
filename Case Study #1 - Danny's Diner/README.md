@@ -1,5 +1,8 @@
 # ***<p align = "center"  > <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/c85bda16-b56d-4bf7-a136-3f26ea86d9d2" /> Case Study #1 - Danny's Diner</p>*** #
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/5953e2c5-16a2-417e-93f1-ce1278495f31" />
+
+
 # Table of Contents
 
 # Entity Relationship Diagram
@@ -7,7 +10,7 @@
 
 # Question and Solution
 
-*** 1. What is the total amount each customer spent at the restaurant ***
+1. What is the total amount each customer spent at the restaurant
 
 
 
