@@ -134,7 +134,60 @@
 </p>
 
 
+graph TD
+    %% Define Styles
+    classDef source fill:#f9f,stroke:#333,stroke-width:2px;
+    classDef stream fill:#d4f1f4,stroke:#333,stroke-width:2px;
+    classDef batch fill:#fcf4dd,stroke:#333,stroke-width:2px;
+    classDef storage fill:#e1f7d5,stroke:#333,stroke-width:2px;
+    classDef serve fill:#ffbdbd,stroke:#333,stroke-width:2px;
 
+    %% Sources
+    Binance[("🔥 Binance WebSocket<br>(Real-time Data)")]:::source
+    API[("❄️ Fear & Greed API<br>(Daily Data)")]:::source
+
+    %% Streaming Pipeline (Hot Path)
+    subgraph Streaming_Pipeline [⚡ Streaming Pipeline (Docker Services)]
+        Producer[Python Producer]:::stream
+        Kafka[Kafka Cluster]:::stream
+        Spark[Spark Streaming<br>(Master + 3 Workers)]:::stream
+    end
+
+    %% Storage Layer
+    subgraph Storage_Layer [💾 Storage Layer]
+        MinIO[("MinIO (Data Lake)<br>Bronze/Silver (Parquet)")]:::storage
+        Postgres[("PostgreSQL (Warehouse)<br>Gold Tables")]:::storage
+    end
+
+    %% Batch & Orchestration (Cold Path)
+    subgraph Orchestration [🛠️ Orchestration & Modeling]
+        Airflow[Apache Airflow]:::batch
+        dbt[dbt Core]:::batch
+    end
+
+    %% Serving
+    Metabase[📊 Metabase Dashboard]:::serve
+
+    %% Connections - Streaming Flow
+    Binance --> Producer
+    Producer -->|JSON| Kafka
+    Kafka -->|Topic: trades| Spark
+    Spark -->|Raw/Clean Data| MinIO
+    Spark -->|Aggregated Data (Gold Raw)| Postgres
+
+    %% Connections - Batch Flow
+    Airflow -->|1. Python Task (Daily)| API
+    API -->|Sentiment Data| Postgres
+    Airflow -->|2. Trigger Command| dbt
+    dbt -->|3. Transform SQL| Postgres
+    
+    %% Connections - Serving
+    Postgres -->|Read Final Tables| Metabase
+
+    %% Labels for clarity
+    linkStyle 4 stroke:blue,stroke-width:2px;
+    linkStyle 5 stroke:blue,stroke-width:2px;
+    linkStyle 8 stroke:orange,stroke-width:2px;
 
 
 
